@@ -9,6 +9,8 @@ Nerdy by Day, Gamer by Night 🖥️🎮 By day, I'm diving into tech and expand
 
 Full-Stack Developer 💻 I mainly work with JavaScript, but I'm flexible and love exploring new technologies. Building cool stuff is my jam!
 
+If you want you can take a look at my [university projects](https://github.com/fontys-university-projects)
+
 # 💻Tech Stack
 
 ### Programming Languages
